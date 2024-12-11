@@ -1,5 +1,16 @@
 # Twinkl React Tech Test
 
+## Run app
+
+- Once you have cloned the repo, run `yarn dev` to start the app.
+- yarn test to run the tests
+- yarn dev to run the app
+
+Clicking the remove button will delete the post from the list.
+Using the search bar will provide filtered results.
+
+Any issues please contact me.
+
 ## Task description
 
 You are tasked with creating a React application that interacts with a Posts management API (https://jsonplaceholder.typicode.com/posts) to perform CRUD operations (Create, Read, Update, Delete). The application should be implemented using TypeScript and designed to be production-ready.
@@ -31,7 +42,7 @@ https://jsonplaceholder.typicode.com/guide/
 
 ##### Documentation
 
-- Add appropriate documentation for your application. - [ ]
+- Add appropriate documentation for your application. - [x]
 
 #### Wireframes
 
